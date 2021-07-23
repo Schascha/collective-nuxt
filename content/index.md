@@ -4,7 +4,8 @@ Just a Playground with
 <BaseTag>NuxtJS</BaseTag>
 <BaseTag>Vue.js</BaseTag>
 <BaseTag>Tailwind CSS</BaseTag>
-<BaseTag>Git-based Headless CMS</BaseTag>.
+<BaseTag>Git-based Headless CMS</BaseTag>
+<BaseTag>Storybook</BaseTag>.
 ## Welcome
 
 You can edit me in <code>content/index.md</code>.
