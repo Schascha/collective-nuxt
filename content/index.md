@@ -1,8 +1,10 @@
----
-title: Getting started
-description: 'Nuxt / Vue.js / Tailwind CSS / Git-based Headless CMS'
----
+# Getting started
 
+Just a Playground with
+<BaseTag>NuxtJS</BaseTag>
+<BaseTag>Vue.js</BaseTag>
+<BaseTag>Tailwind CSS</BaseTag>
+<BaseTag>Git-based Headless CMS</BaseTag>.
 ## Welcome
 
 You can edit me in <code>content/index.md</code>.

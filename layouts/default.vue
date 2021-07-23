@@ -1,7 +1,7 @@
 <template>
   <div class="page">
     <header>
-      <BaseNavigation />
+      <AppNavigation />
     </header>
 
     <main>

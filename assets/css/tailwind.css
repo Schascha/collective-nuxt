@@ -22,7 +22,7 @@
   }
 
   code {
-    @apply rounded-full text-sm bg-gray-100 text-gray-900 px-3 py-1;
+    @apply rounded-full bg-gray-100 text-gray-900 px-2 py-1 text-sm font-medium;
   }
 }
 
