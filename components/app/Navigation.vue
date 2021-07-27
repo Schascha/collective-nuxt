@@ -19,8 +19,8 @@ export default {
     return {
       items: [
         { path: '/', text: 'Home' },
-        { path: 'about', text: 'About' },
-        { path: 'help', text: 'Help' }
+        { path: '/about', text: 'About' },
+        { path: '/help', text: 'Help' }
       ]
     }
   }
